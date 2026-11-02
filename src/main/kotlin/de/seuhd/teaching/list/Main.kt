@@ -13,4 +13,5 @@ fun main() {
     list.print()
     println("First element: ${list.get(0)}")
     println("test")
+    println( "test2" )
 }
